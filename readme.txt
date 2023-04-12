@@ -1,0 +1,3 @@
+Gra tekstowa w C#.
+
+Napisana w taki sposób, żeby łatwo można było ją rozbudować o kolejne sceny. W Program.cs można utworzyć nową scenę z pliku tekstowego, dodać do niej wybory, warunki pod którymi te wybory wyświetlą się graczowi oraz efekty jakie spowoduje ich wybranie. Sceny należy dodać do listy, na której operuje silnik. Listy scen można w sobie zagnieżdżać, a także dodawać do nich specjalne sceny, wskazujące silnikowi, że przy natrafieniu na nie, ma wyświetlić scenę z jakiejś zdefiniowanej puli losowej (również będącej listą scen).
